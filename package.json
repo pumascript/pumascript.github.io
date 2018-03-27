@@ -31,6 +31,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "codemirror": "^5.18.2",
-    "jquery": "^3.0.0"
+    "jquery": "^3.0.0",
+    "requirejs": "2.3.5",
+    "esprima": "4.0.0"
   }
 }

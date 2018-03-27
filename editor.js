@@ -7,7 +7,7 @@ require.config({
         jquery: 'node_modules/jquery/dist/jquery.min',
         bootstrap: 'node_modules/bootstrap/dist/js/bootstrap',
         cm: 'node_modules/codemirror/',
-        pumascript: '../src/pumascript'
+        pumascript: 'src/pumascript'
     },
     shim: {
         bootstrap: {
